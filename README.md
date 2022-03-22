@@ -12,7 +12,8 @@
 
 -   全局导入
 
-    import OnestarUI from 'onestar-ui'
-    import 'onestar-ui/lib/onestar-ui.css'
+    import OnestarUI from 'onestar-ui'  
+    <br>
+    import 'onestar-ui/dist/onestar-ui.css'
 
     Vue.use(OnestarUI)
