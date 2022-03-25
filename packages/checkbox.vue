@@ -86,7 +86,7 @@ export default {
         .os-checkbox__inner {
             display: inline-block;
             position: relative;
-            border: 1px solid #dcdfe6;
+            border: 1px solid #d1d4db;
             border-radius: 2px;
             box-sizing: border-box;
             width: 14px;
