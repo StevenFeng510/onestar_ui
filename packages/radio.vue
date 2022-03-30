@@ -54,7 +54,7 @@ export default {
         },
         isGroup() {
             // 用于判断radio是否被radioGroup所包裹
-            // !! 变为布尔值
+            // !!  双重感叹号变为布尔值
             return !!this.RadioGroup;
         },
     },
